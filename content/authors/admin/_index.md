@@ -1,6 +1,7 @@
 ---
 title: Ruiming Zhang(张瑞明)
 role: ""
+avatar_filename: demo2.jpg
 bio: My research interests include automatic driving, hardware and programmable
   matter.
 superuser: true
