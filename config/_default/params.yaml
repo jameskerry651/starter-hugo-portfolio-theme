@@ -47,7 +47,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
+  show_translations: true
 # Localization
 
 locale:
@@ -63,7 +63,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
