@@ -10,3 +10,6 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name : "My Widget Page"  # Title of the link.
+    url : "landing/"  # Widget Page folder name.
+    weight : 2  # Position of the link in the navigation bar.
