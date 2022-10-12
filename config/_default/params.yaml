@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: custom
-  theme_night: custom
+  theme_night: Dark
   font: minimal
   font_size: L
 
