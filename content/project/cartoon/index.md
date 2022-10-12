@@ -1,8 +1,10 @@
 ---
-title: Cartoon Face Generator
+title: Mathematics
+date: 2022-01-01
 summary: Write about your project here...
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - Math
+external_link: https://jameskerry.netlify.app/post
+image:
+  filename: featured.jpg
 ---
