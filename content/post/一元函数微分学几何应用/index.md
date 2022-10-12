@@ -49,7 +49,7 @@ image:
 
 ## 渐近线
 
-**倾斜渐进线：**若$\lim\limits*{x \to +\infty} \frac{f(x)}{x} = k_1, \lim\limits*{x \to + \infty} \[f(x) - k_1 x] = b_1$, 则$y = k_1x+b_1$是曲线的一条倾斜渐进线。 其余方向同理推导。
+**倾斜渐进线：**若$\lim\limits*{x \to +\infty} \frac{f(x)}{x} = k_1, \lim\limits*{x \to + \infty} \[f(x) - k_1 x] = b_1$, $y = k_1x+b_1$是曲线的一条倾斜渐进线。 其余方向同理推导。
 
 ## 求最值：
 
